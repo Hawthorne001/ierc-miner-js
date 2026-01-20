@@ -14,7 +14,7 @@
     "bignumber.js": "^9.1.2",
     "commander": "^11.0.0",
     "dayjs": "^1.11.10",
-    "ethers": "5",
+    "ethers": "6.0.0",
     "log4js": "^6.9.1",
     "node-json-db": "^2.2.0",
     "spinnies": "^0.5.1"
